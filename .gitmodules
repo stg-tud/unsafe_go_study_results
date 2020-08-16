@@ -1,0 +1,1500 @@
+[submodule "rawdata/AdguardTeam/AdGuardHome"]
+	path = rawdata/AdguardTeam/AdGuardHome
+	url = https://github.com/AdguardTeam/AdGuardHome.git
+[submodule "rawdata/golang/go"]
+	path = rawdata/golang/go
+	url = https://github.com/golang/go.git
+[submodule "rawdata/kubernetes/kubernetes"]
+	path = rawdata/kubernetes/kubernetes
+	url = https://github.com/kubernetes/kubernetes.git
+[submodule "rawdata/moby/moby"]
+	path = rawdata/moby/moby
+	url = https://github.com/moby/moby.git
+[submodule "rawdata/avelino/awesome-go"]
+	path = rawdata/avelino/awesome-go
+	url = https://github.com/avelino/awesome-go.git
+[submodule "rawdata/gohugoio/hugo"]
+	path = rawdata/gohugoio/hugo
+	url = https://github.com/gohugoio/hugo.git
+[submodule "rawdata/gin-gonic/gin"]
+	path = rawdata/gin-gonic/gin
+	url = https://github.com/gin-gonic/gin.git
+[submodule "rawdata/fatedier/frp"]
+	path = rawdata/fatedier/frp
+	url = https://github.com/fatedier/frp.git
+[submodule "rawdata/astaxie/build-web-application-with-golang"]
+	path = rawdata/astaxie/build-web-application-with-golang
+	url = https://github.com/astaxie/build-web-application-with-golang.git
+[submodule "rawdata/gogs/gogs"]
+	path = rawdata/gogs/gogs
+	url = https://github.com/gogs/gogs.git
+[submodule "rawdata/v2ray/v2ray-core"]
+	path = rawdata/v2ray/v2ray-core
+	url = https://github.com/v2ray/v2ray-core.git
+[submodule "rawdata/syncthing/syncthing"]
+	path = rawdata/syncthing/syncthing
+	url = https://github.com/syncthing/syncthing.git
+[submodule "rawdata/etcd-io/etcd"]
+	path = rawdata/etcd-io/etcd
+	url = https://github.com/etcd-io/etcd.git
+[submodule "rawdata/prometheus/prometheus"]
+	path = rawdata/prometheus/prometheus
+	url = https://github.com/prometheus/prometheus.git
+[submodule "rawdata/junegunn/fzf"]
+	path = rawdata/junegunn/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "rawdata/containous/traefik"]
+	path = rawdata/containous/traefik
+	url = https://github.com/containous/traefik.git
+[submodule "rawdata/caddyserver/caddy"]
+	path = rawdata/caddyserver/caddy
+	url = https://github.com/caddyserver/caddy.git
+[submodule "rawdata/ethereum/go-ethereum"]
+	path = rawdata/ethereum/go-ethereum
+	url = https://github.com/ethereum/go-ethereum.git
+[submodule "rawdata/FiloSottile/mkcert"]
+	path = rawdata/FiloSottile/mkcert
+	url = https://github.com/FiloSottile/mkcert.git
+[submodule "rawdata/astaxie/beego"]
+	path = rawdata/astaxie/beego
+	url = https://github.com/astaxie/beego.git
+[submodule "rawdata/iikira/BaiduPCS-Go"]
+	path = rawdata/iikira/BaiduPCS-Go
+	url = https://github.com/iikira/BaiduPCS-Go.git
+[submodule "rawdata/pingcap/tidb"]
+	path = rawdata/pingcap/tidb
+	url = https://github.com/pingcap/tidb.git
+[submodule "rawdata/istio/istio"]
+	path = rawdata/istio/istio
+	url = https://github.com/istio/istio.git
+[submodule "rawdata/hashicorp/terraform"]
+	path = rawdata/hashicorp/terraform
+	url = https://github.com/hashicorp/terraform.git
+[submodule "rawdata/minio/minio"]
+	path = rawdata/minio/minio
+	url = https://github.com/minio/minio.git
+[submodule "rawdata/rclone/rclone"]
+	path = rawdata/rclone/rclone
+	url = https://github.com/rclone/rclone.git
+[submodule "rawdata/unknwon/the-way-to-go_ZH_CN"]
+	path = rawdata/unknwon/the-way-to-go_ZH_CN
+	url = https://github.com/unknwon/the-way-to-go_ZH_CN.git
+[submodule "rawdata/drone/drone"]
+	path = rawdata/drone/drone
+	url = https://github.com/drone/drone.git
+[submodule "rawdata/wagoodman/dive"]
+	path = rawdata/wagoodman/dive
+	url = https://github.com/wagoodman/dive.git
+[submodule "rawdata/go-gitea/gitea"]
+	path = rawdata/go-gitea/gitea
+	url = https://github.com/go-gitea/gitea.git
+[submodule "rawdata/github/hub"]
+	path = rawdata/github/hub
+	url = https://github.com/github/hub.git
+[submodule "rawdata/hashicorp/consul"]
+	path = rawdata/hashicorp/consul
+	url = https://github.com/hashicorp/consul.git
+[submodule "rawdata/influxdata/influxdb"]
+	path = rawdata/influxdata/influxdb
+	url = https://github.com/influxdata/influxdb.git
+[submodule "rawdata/inconshreveable/ngrok"]
+	path = rawdata/inconshreveable/ngrok
+	url = https://github.com/inconshreveable/ngrok.git
+[submodule "rawdata/jinzhu/gorm"]
+	path = rawdata/jinzhu/gorm
+	url = https://github.com/jinzhu/gorm.git
+[submodule "rawdata/kubernetes/minikube"]
+	path = rawdata/kubernetes/minikube
+	url = https://github.com/kubernetes/minikube.git
+[submodule "rawdata/mattermost/mattermost-server"]
+	path = rawdata/mattermost/mattermost-server
+	url = https://github.com/mattermost/mattermost-server.git
+[submodule "rawdata/cockroachdb/cockroach"]
+	path = rawdata/cockroachdb/cockroach
+	url = https://github.com/cockroachdb/cockroach.git
+[submodule "rawdata/kataras/iris"]
+	path = rawdata/kataras/iris
+	url = https://github.com/kataras/iris.git
+[submodule "rawdata/nsqio/nsq"]
+	path = rawdata/nsqio/nsq
+	url = https://github.com/nsqio/nsq.git
+[submodule "rawdata/openfaas/faas"]
+	path = rawdata/openfaas/faas
+	url = https://github.com/openfaas/faas.git
+[submodule "rawdata/labstack/echo"]
+	path = rawdata/labstack/echo
+	url = https://github.com/labstack/echo.git
+[submodule "rawdata/helm/helm"]
+	path = rawdata/helm/helm
+	url = https://github.com/helm/helm.git
+[submodule "rawdata/spf13/cobra"]
+	path = rawdata/spf13/cobra
+	url = https://github.com/spf13/cobra.git
+[submodule "rawdata/go-kit/kit"]
+	path = rawdata/go-kit/kit
+	url = https://github.com/go-kit/kit.git
+[submodule "rawdata/yeasy/docker_practice"]
+	path = rawdata/yeasy/docker_practice
+	url = https://github.com/yeasy/docker_practice.git
+[submodule "rawdata/jesseduffield/lazygit"]
+	path = rawdata/jesseduffield/lazygit
+	url = https://github.com/jesseduffield/lazygit.git
+[submodule "rawdata/hashicorp/vault"]
+	path = rawdata/hashicorp/vault
+	url = https://github.com/hashicorp/vault.git
+[submodule "rawdata/jesseduffield/lazydocker"]
+	path = rawdata/jesseduffield/lazydocker
+	url = https://github.com/jesseduffield/lazydocker.git
+[submodule "rawdata/sirupsen/logrus"]
+	path = rawdata/sirupsen/logrus
+	url = https://github.com/sirupsen/logrus.git
+[submodule "rawdata/joewalnes/websocketd"]
+	path = rawdata/joewalnes/websocketd
+	url = https://github.com/joewalnes/websocketd.git
+[submodule "rawdata/tsenart/vegeta"]
+	path = rawdata/tsenart/vegeta
+	url = https://github.com/tsenart/vegeta.git
+[submodule "rawdata/rancher/rancher"]
+	path = rawdata/rancher/rancher
+	url = https://github.com/rancher/rancher.git
+[submodule "rawdata/go-delve/delve"]
+	path = rawdata/go-delve/delve
+	url = https://github.com/go-delve/delve.git
+[submodule "rawdata/yudai/gotty"]
+	path = rawdata/yudai/gotty
+	url = https://github.com/yudai/gotty.git
+[submodule "rawdata/urfave/cli"]
+	path = rawdata/urfave/cli
+	url = https://github.com/urfave/cli.git
+[submodule "rawdata/zyedidia/micro"]
+	path = rawdata/zyedidia/micro
+	url = https://github.com/zyedidia/micro.git
+[submodule "rawdata/cayleygraph/cayley"]
+	path = rawdata/cayleygraph/cayley
+	url = https://github.com/cayleygraph/cayley.git
+[submodule "rawdata/helm/charts"]
+	path = rawdata/helm/charts
+	url = https://github.com/helm/charts.git
+[submodule "rawdata/dgraph-io/dgraph"]
+	path = rawdata/dgraph-io/dgraph
+	url = https://github.com/dgraph-io/dgraph.git
+[submodule "rawdata/golang/dep"]
+	path = rawdata/golang/dep
+	url = https://github.com/golang/dep.git
+[submodule "rawdata/micro/go-micro"]
+	path = rawdata/micro/go-micro
+	url = https://github.com/micro/go-micro.git
+[submodule "rawdata/rancher/k3s"]
+	path = rawdata/rancher/k3s
+	url = https://github.com/rancher/k3s.git
+[submodule "rawdata/buger/goreplay"]
+	path = rawdata/buger/goreplay
+	url = https://github.com/buger/goreplay.git
+[submodule "rawdata/tmrts/go-patterns"]
+	path = rawdata/tmrts/go-patterns
+	url = https://github.com/tmrts/go-patterns.git
+[submodule "rawdata/chai2010/advanced-go-programming-book"]
+	path = rawdata/chai2010/advanced-go-programming-book
+	url = https://github.com/chai2010/advanced-go-programming-book.git
+[submodule "rawdata/coreybutler/nvm-windows"]
+	path = rawdata/coreybutler/nvm-windows
+	url = https://github.com/coreybutler/nvm-windows.git
+[submodule "rawdata/valyala/fasthttp"]
+	path = rawdata/valyala/fasthttp
+	url = https://github.com/valyala/fasthttp.git
+[submodule "rawdata/spf13/viper"]
+	path = rawdata/spf13/viper
+	url = https://github.com/spf13/viper.git
+[submodule "rawdata/ehang-io/nps"]
+	path = rawdata/ehang-io/nps
+	url = https://github.com/ehang-io/nps.git
+[submodule "rawdata/gorilla/websocket"]
+	path = rawdata/gorilla/websocket
+	url = https://github.com/gorilla/websocket.git
+[submodule "rawdata/gorilla/mux"]
+	path = rawdata/gorilla/mux
+	url = https://github.com/gorilla/mux.git
+[submodule "rawdata/goharbor/harbor"]
+	path = rawdata/goharbor/harbor
+	url = https://github.com/goharbor/harbor.git
+[submodule "rawdata/xtaci/kcptun"]
+	path = rawdata/xtaci/kcptun
+	url = https://github.com/xtaci/kcptun.git
+[submodule "rawdata/revel/revel"]
+	path = rawdata/revel/revel
+	url = https://github.com/revel/revel.git
+[submodule "rawdata/txthinking/brook"]
+	path = rawdata/txthinking/brook
+	url = https://github.com/txthinking/brook.git
+[submodule "rawdata/wtfutil/wtf"]
+	path = rawdata/wtfutil/wtf
+	url = https://github.com/wtfutil/wtf.git
+[submodule "rawdata/kubernetes/kops"]
+	path = rawdata/kubernetes/kops
+	url = https://github.com/kubernetes/kops.git
+[submodule "rawdata/grpc/grpc-go"]
+	path = rawdata/grpc/grpc-go
+	url = https://github.com/grpc/grpc-go.git
+[submodule "rawdata/julienschmidt/httprouter"]
+	path = rawdata/julienschmidt/httprouter
+	url = https://github.com/julienschmidt/httprouter.git
+[submodule "rawdata/CodisLabs/codis"]
+	path = rawdata/CodisLabs/codis
+	url = https://github.com/CodisLabs/codis.git
+[submodule "rawdata/quii/learn-go-with-tests"]
+	path = rawdata/quii/learn-go-with-tests
+	url = https://github.com/quii/learn-go-with-tests.git
+[submodule "rawdata/jaegertracing/jaeger"]
+	path = rawdata/jaegertracing/jaeger
+	url = https://github.com/jaegertracing/jaeger.git
+[submodule "rawdata/gocolly/colly"]
+	path = rawdata/gocolly/colly
+	url = https://github.com/gocolly/colly.git
+[submodule "rawdata/go-martini/martini"]
+	path = rawdata/go-martini/martini
+	url = https://github.com/go-martini/martini.git
+[submodule "rawdata/fogleman/primitive"]
+	path = rawdata/fogleman/primitive
+	url = https://github.com/fogleman/primitive.git
+[submodule "rawdata/google/cadvisor"]
+	path = rawdata/google/cadvisor
+	url = https://github.com/google/cadvisor.git
+[submodule "rawdata/boltdb/bolt"]
+	path = rawdata/boltdb/bolt
+	url = https://github.com/boltdb/bolt.git
+[submodule "rawdata/stretchr/testify"]
+	path = rawdata/stretchr/testify
+	url = https://github.com/stretchr/testify.git
+[submodule "rawdata/peterq/pan-light"]
+	path = rawdata/peterq/pan-light
+	url = https://github.com/peterq/pan-light.git
+[submodule "rawdata/iawia002/annie"]
+	path = rawdata/iawia002/annie
+	url = https://github.com/iawia002/annie.git
+[submodule "rawdata/hyperledger/fabric"]
+	path = rawdata/hyperledger/fabric
+	url = https://github.com/hyperledger/fabric.git
+[submodule "rawdata/restic/restic"]
+	path = rawdata/restic/restic
+	url = https://github.com/restic/restic.git
+[submodule "rawdata/hashicorp/packer"]
+	path = rawdata/hashicorp/packer
+	url = https://github.com/hashicorp/packer.git
+[submodule "rawdata/vitessio/vitess"]
+	path = rawdata/vitessio/vitess
+	url = https://github.com/vitessio/vitess.git
+[submodule "rawdata/google/grumpy"]
+	path = rawdata/google/grumpy
+	url = https://github.com/google/grumpy.git
+[submodule "rawdata/google/gvisor"]
+	path = rawdata/google/gvisor
+	url = https://github.com/google/gvisor.git
+[submodule "rawdata/bcicen/ctop"]
+	path = rawdata/bcicen/ctop
+	url = https://github.com/bcicen/ctop.git
+[submodule "rawdata/gizak/termui"]
+	path = rawdata/gizak/termui
+	url = https://github.com/gizak/termui.git
+[submodule "rawdata/go-kratos/kratos"]
+	path = rawdata/go-kratos/kratos
+	url = https://github.com/go-kratos/kratos.git
+[submodule "rawdata/uber-go/zap"]
+	path = rawdata/uber-go/zap
+	url = https://github.com/uber-go/zap.git
+[submodule "rawdata/hoanhan101/ultimate-go"]
+	path = rawdata/hoanhan101/ultimate-go
+	url = https://github.com/hoanhan101/ultimate-go.git
+[submodule "rawdata/ipfs/go-ipfs"]
+	path = rawdata/ipfs/go-ipfs
+	url = https://github.com/ipfs/go-ipfs.git
+[submodule "rawdata/fyne-io/fyne"]
+	path = rawdata/fyne-io/fyne
+	url = https://github.com/fyne-io/fyne.git
+[submodule "rawdata/GoogleContainerTools/skaffold"]
+	path = rawdata/GoogleContainerTools/skaffold
+	url = https://github.com/GoogleContainerTools/skaffold.git
+[submodule "rawdata/chrislusf/seaweedfs"]
+	path = rawdata/chrislusf/seaweedfs
+	url = https://github.com/chrislusf/seaweedfs.git
+[submodule "rawdata/dutchcoders/transfer.sh"]
+	path = rawdata/dutchcoders/transfer.sh
+	url = https://github.com/dutchcoders/transfer.sh.git
+[submodule "rawdata/grafana/loki"]
+	path = rawdata/grafana/loki
+	url = https://github.com/grafana/loki.git
+[submodule "rawdata/go-sql-driver/mysql"]
+	path = rawdata/go-sql-driver/mysql
+	url = https://github.com/go-sql-driver/mysql.git
+[submodule "rawdata/gopherjs/gopherjs"]
+	path = rawdata/gopherjs/gopherjs
+	url = https://github.com/gopherjs/gopherjs.git
+[submodule "rawdata/esimov/caire"]
+	path = rawdata/esimov/caire
+	url = https://github.com/esimov/caire.git
+[submodule "rawdata/cli/cli"]
+	path = rawdata/cli/cli
+	url = https://github.com/cli/cli.git
+[submodule "rawdata/asciimoo/wuzz"]
+	path = rawdata/asciimoo/wuzz
+	url = https://github.com/asciimoo/wuzz.git
+[submodule "rawdata/evanw/esbuild"]
+	path = rawdata/evanw/esbuild
+	url = https://github.com/evanw/esbuild.git
+[submodule "rawdata/rkt/rkt"]
+	path = rawdata/rkt/rkt
+	url = https://github.com/rkt/rkt.git
+[submodule "rawdata/Dreamacro/clash"]
+	path = rawdata/Dreamacro/clash
+	url = https://github.com/Dreamacro/clash.git
+[submodule "rawdata/go-redis/redis"]
+	path = rawdata/go-redis/redis
+	url = https://github.com/go-redis/redis.git
+[submodule "rawdata/elastic/beats"]
+	path = rawdata/elastic/beats
+	url = https://github.com/elastic/beats.git
+[submodule "rawdata/snail007/goproxy"]
+	path = rawdata/snail007/goproxy
+	url = https://github.com/snail007/goproxy.git
+[submodule "rawdata/PuerkitoBio/goquery"]
+	path = rawdata/PuerkitoBio/goquery
+	url = https://github.com/PuerkitoBio/goquery.git
+[submodule "rawdata/golang/groupcache"]
+	path = rawdata/golang/groupcache
+	url = https://github.com/golang/groupcache.git
+[submodule "rawdata/influxdata/telegraf"]
+	path = rawdata/influxdata/telegraf
+	url = https://github.com/influxdata/telegraf.git
+[submodule "rawdata/ory/hydra"]
+	path = rawdata/ory/hydra
+	url = https://github.com/ory/hydra.git
+[submodule "rawdata/Netflix/chaosmonkey"]
+	path = rawdata/Netflix/chaosmonkey
+	url = https://github.com/Netflix/chaosmonkey.git
+[submodule "rawdata/docker-slim/docker-slim"]
+	path = rawdata/docker-slim/docker-slim
+	url = https://github.com/docker-slim/docker-slim.git
+[submodule "rawdata/grpc-ecosystem/grpc-gateway"]
+	path = rawdata/grpc-ecosystem/grpc-gateway
+	url = https://github.com/grpc-ecosystem/grpc-gateway.git
+[submodule "rawdata/rakyll/hey"]
+	path = rawdata/rakyll/hey
+	url = https://github.com/rakyll/hey.git
+[submodule "rawdata/jmoiron/sqlx"]
+	path = rawdata/jmoiron/sqlx
+	url = https://github.com/jmoiron/sqlx.git
+[submodule "rawdata/dinedal/textql"]
+	path = rawdata/dinedal/textql
+	url = https://github.com/dinedal/textql.git
+[submodule "rawdata/emirpasic/gods"]
+	path = rawdata/emirpasic/gods
+	url = https://github.com/emirpasic/gods.git
+[submodule "rawdata/git-lfs/git-lfs"]
+	path = rawdata/git-lfs/git-lfs
+	url = https://github.com/git-lfs/git-lfs.git
+[submodule "rawdata/gravitational/teleport"]
+	path = rawdata/gravitational/teleport
+	url = https://github.com/gravitational/teleport.git
+[submodule "rawdata/cyfdecyf/cow"]
+	path = rawdata/cyfdecyf/cow
+	url = https://github.com/cyfdecyf/cow.git
+[submodule "rawdata/micro/micro"]
+	path = rawdata/micro/micro
+	url = https://github.com/micro/micro.git
+[submodule "rawdata/apex/apex"]
+	path = rawdata/apex/apex
+	url = https://github.com/apex/apex.git
+[submodule "rawdata/Masterminds/glide"]
+	path = rawdata/Masterminds/glide
+	url = https://github.com/Masterminds/glide.git
+[submodule "rawdata/sqshq/sampler"]
+	path = rawdata/sqshq/sampler
+	url = https://github.com/sqshq/sampler.git
+[submodule "rawdata/kubernetes/dashboard"]
+	path = rawdata/kubernetes/dashboard
+	url = https://github.com/kubernetes/dashboard.git
+[submodule "rawdata/nats-io/nats-server"]
+	path = rawdata/nats-io/nats-server
+	url = https://github.com/nats-io/nats-server.git
+[submodule "rawdata/apex/up"]
+	path = rawdata/apex/up
+	url = https://github.com/apex/up.git
+[submodule "rawdata/github/gh-ost"]
+	path = rawdata/github/gh-ost
+	url = https://github.com/github/gh-ost.git
+[submodule "rawdata/json-iterator/go"]
+	path = rawdata/json-iterator/go
+	url = https://github.com/json-iterator/go.git
+[submodule "rawdata/dgraph-io/badger"]
+	path = rawdata/dgraph-io/badger
+	url = https://github.com/dgraph-io/badger.git
+[submodule "rawdata/dgrijalva/jwt-go"]
+	path = rawdata/dgrijalva/jwt-go
+	url = https://github.com/dgrijalva/jwt-go.git
+[submodule "rawdata/kubernetes/ingress-nginx"]
+	path = rawdata/kubernetes/ingress-nginx
+	url = https://github.com/kubernetes/ingress-nginx.git
+[submodule "rawdata/flynn/flynn"]
+	path = rawdata/flynn/flynn
+	url = https://github.com/flynn/flynn.git
+[submodule "rawdata/go-chi/chi"]
+	path = rawdata/go-chi/chi
+	url = https://github.com/go-chi/chi.git
+[submodule "rawdata/future-architect/vuls"]
+	path = rawdata/future-architect/vuls
+	url = https://github.com/future-architect/vuls.git
+[submodule "rawdata/andlabs/ui"]
+	path = rawdata/andlabs/ui
+	url = https://github.com/andlabs/ui.git
+[submodule "rawdata/openshift/origin"]
+	path = rawdata/openshift/origin
+	url = https://github.com/openshift/origin.git
+[submodule "rawdata/gomodule/redigo"]
+	path = rawdata/gomodule/redigo
+	url = https://github.com/gomodule/redigo.git
+[submodule "rawdata/ahmetb/kubectx"]
+	path = rawdata/ahmetb/kubectx
+	url = https://github.com/ahmetb/kubectx.git
+[submodule "rawdata/therecipe/qt"]
+	path = rawdata/therecipe/qt
+	url = https://github.com/therecipe/qt.git
+[submodule "rawdata/talk-go/night"]
+	path = rawdata/talk-go/night
+	url = https://github.com/talk-go/night.git
+[submodule "rawdata/ardanlabs/gotraining"]
+	path = rawdata/ardanlabs/gotraining
+	url = https://github.com/ardanlabs/gotraining.git
+[submodule "rawdata/bettercap/bettercap"]
+	path = rawdata/bettercap/bettercap
+	url = https://github.com/bettercap/bettercap.git
+[submodule "rawdata/unknwon/go-fundamental-programming"]
+	path = rawdata/unknwon/go-fundamental-programming
+	url = https://github.com/unknwon/go-fundamental-programming.git
+[submodule "rawdata/rook/rook"]
+	path = rawdata/rook/rook
+	url = https://github.com/rook/rook.git
+[submodule "rawdata/sjwhitworth/golearn"]
+	path = rawdata/sjwhitworth/golearn
+	url = https://github.com/sjwhitworth/golearn.git
+[submodule "rawdata/attic-labs/noms"]
+	path = rawdata/attic-labs/noms
+	url = https://github.com/attic-labs/noms.git
+[submodule "rawdata/google/go-cloud"]
+	path = rawdata/google/go-cloud
+	url = https://github.com/google/go-cloud.git
+[submodule "rawdata/claudiodangelis/qrcp"]
+	path = rawdata/claudiodangelis/qrcp
+	url = https://github.com/claudiodangelis/qrcp.git
+[submodule "rawdata/kelseyhightower/confd"]
+	path = rawdata/kelseyhightower/confd
+	url = https://github.com/kelseyhightower/confd.git
+[submodule "rawdata/opencontainers/runc"]
+	path = rawdata/opencontainers/runc
+	url = https://github.com/opencontainers/runc.git
+[submodule "rawdata/tidwall/tile38"]
+	path = rawdata/tidwall/tile38
+	url = https://github.com/tidwall/tile38.git
+[submodule "rawdata/keybase/client"]
+	path = rawdata/keybase/client
+	url = https://github.com/keybase/client.git
+[submodule "rawdata/cjbassi/gotop"]
+	path = rawdata/cjbassi/gotop
+	url = https://github.com/cjbassi/gotop.git
+[submodule "rawdata/casbin/casbin"]
+	path = rawdata/casbin/casbin
+	url = https://github.com/casbin/casbin.git
+[submodule "rawdata/derailed/k9s"]
+	path = rawdata/derailed/k9s
+	url = https://github.com/derailed/k9s.git
+[submodule "rawdata/filebrowser/filebrowser"]
+	path = rawdata/filebrowser/filebrowser
+	url = https://github.com/filebrowser/filebrowser.git
+[submodule "rawdata/polaris1119/The-Golang-Standard-Library-by-Example"]
+	path = rawdata/polaris1119/The-Golang-Standard-Library-by-Example
+	url = https://github.com/polaris1119/The-Golang-Standard-Library-by-Example.git
+[submodule "rawdata/urfave/negroni"]
+	path = rawdata/urfave/negroni
+	url = https://github.com/urfave/negroni.git
+[submodule "rawdata/golang/protobuf"]
+	path = rawdata/golang/protobuf
+	url = https://github.com/golang/protobuf.git
+[submodule "rawdata/shadowsocks/shadowsocks-go"]
+	path = rawdata/shadowsocks/shadowsocks-go
+	url = https://github.com/shadowsocks/shadowsocks-go.git
+[submodule "rawdata/tylertreat/comcast"]
+	path = rawdata/tylertreat/comcast
+	url = https://github.com/tylertreat/comcast.git
+[submodule "rawdata/quay/clair"]
+	path = rawdata/quay/clair
+	url = https://github.com/quay/clair.git
+[submodule "rawdata/blevesearch/bleve"]
+	path = rawdata/blevesearch/bleve
+	url = https://github.com/blevesearch/bleve.git
+[submodule "rawdata/gdrive-org/gdrive"]
+	path = rawdata/gdrive-org/gdrive
+	url = https://github.com/gdrive-org/gdrive.git
+[submodule "rawdata/loadimpact/k6"]
+	path = rawdata/loadimpact/k6
+	url = https://github.com/loadimpact/k6.git
+[submodule "rawdata/usefathom/fathom"]
+	path = rawdata/usefathom/fathom
+	url = https://github.com/usefathom/fathom.git
+[submodule "rawdata/hybridgroup/gobot"]
+	path = rawdata/hybridgroup/gobot
+	url = https://github.com/hybridgroup/gobot.git
+[submodule "rawdata/mailhog/MailHog"]
+	path = rawdata/mailhog/MailHog
+	url = https://github.com/mailhog/MailHog.git
+[submodule "rawdata/dapr/dapr"]
+	path = rawdata/dapr/dapr
+	url = https://github.com/dapr/dapr.git
+[submodule "rawdata/tidwall/gjson"]
+	path = rawdata/tidwall/gjson
+	url = https://github.com/tidwall/gjson.git
+[submodule "rawdata/henrylee2cn/pholcus"]
+	path = rawdata/henrylee2cn/pholcus
+	url = https://github.com/henrylee2cn/pholcus.git
+[submodule "rawdata/graphql-go/graphql"]
+	path = rawdata/graphql-go/graphql
+	url = https://github.com/graphql-go/graphql.git
+[submodule "rawdata/sosedoff/pgweb"]
+	path = rawdata/sosedoff/pgweb
+	url = https://github.com/sosedoff/pgweb.git
+[submodule "rawdata/tomnomnom/gron"]
+	path = rawdata/tomnomnom/gron
+	url = https://github.com/tomnomnom/gron.git
+[submodule "rawdata/fabiolb/fabio"]
+	path = rawdata/fabiolb/fabio
+	url = https://github.com/fabiolb/fabio.git
+[submodule "rawdata/jroimartin/gocui"]
+	path = rawdata/jroimartin/gocui
+	url = https://github.com/jroimartin/gocui.git
+[submodule "rawdata/tinygo-org/tinygo"]
+	path = rawdata/tinygo-org/tinygo
+	url = https://github.com/tinygo-org/tinygo.git
+[submodule "rawdata/360EntSecGroup-Skylar/excelize"]
+	path = rawdata/360EntSecGroup-Skylar/excelize
+	url = https://github.com/360EntSecGroup-Skylar/excelize.git
+[submodule "rawdata/inlets/inlets"]
+	path = rawdata/inlets/inlets
+	url = https://github.com/inlets/inlets.git
+[submodule "rawdata/schachmat/wego"]
+	path = rawdata/schachmat/wego
+	url = https://github.com/schachmat/wego.git
+[submodule "rawdata/linuxkit/linuxkit"]
+	path = rawdata/linuxkit/linuxkit
+	url = https://github.com/linuxkit/linuxkit.git
+[submodule "rawdata/direnv/direnv"]
+	path = rawdata/direnv/direnv
+	url = https://github.com/direnv/direnv.git
+[submodule "rawdata/crawlab-team/crawlab"]
+	path = rawdata/crawlab-team/crawlab
+	url = https://github.com/crawlab-team/crawlab.git
+[submodule "rawdata/hashicorp/nomad"]
+	path = rawdata/hashicorp/nomad
+	url = https://github.com/hashicorp/nomad.git
+[submodule "rawdata/XiaoMi/soar"]
+	path = rawdata/XiaoMi/soar
+	url = https://github.com/XiaoMi/soar.git
+[submodule "rawdata/coredns/coredns"]
+	path = rawdata/coredns/coredns
+	url = https://github.com/coredns/coredns.git
+[submodule "rawdata/go-xorm/xorm"]
+	path = rawdata/go-xorm/xorm
+	url = https://github.com/go-xorm/xorm.git
+[submodule "rawdata/robfig/cron"]
+	path = rawdata/robfig/cron
+	url = https://github.com/robfig/cron.git
+[submodule "rawdata/DNSCrypt/dnscrypt-proxy"]
+	path = rawdata/DNSCrypt/dnscrypt-proxy
+	url = https://github.com/DNSCrypt/dnscrypt-proxy.git
+[submodule "rawdata/cheat/cheat"]
+	path = rawdata/cheat/cheat
+	url = https://github.com/cheat/cheat.git
+[submodule "rawdata/GoogleContainerTools/kaniko"]
+	path = rawdata/GoogleContainerTools/kaniko
+	url = https://github.com/GoogleContainerTools/kaniko.git
+[submodule "rawdata/lib/pq"]
+	path = rawdata/lib/pq
+	url = https://github.com/lib/pq.git
+[submodule "rawdata/GoesToEleven/GolangTraining"]
+	path = rawdata/GoesToEleven/GolangTraining
+	url = https://github.com/GoesToEleven/GolangTraining.git
+[submodule "rawdata/docker/machine"]
+	path = rawdata/docker/machine
+	url = https://github.com/docker/machine.git
+[submodule "rawdata/peco/peco"]
+	path = rawdata/peco/peco
+	url = https://github.com/peco/peco.git
+[submodule "rawdata/rancher/os"]
+	path = rawdata/rancher/os
+	url = https://github.com/rancher/os.git
+[submodule "rawdata/rqlite/rqlite"]
+	path = rawdata/rqlite/rqlite
+	url = https://github.com/rqlite/rqlite.git
+[submodule "rawdata/open-falcon/falcon-plus"]
+	path = rawdata/open-falcon/falcon-plus
+	url = https://github.com/open-falcon/falcon-plus.git
+[submodule "rawdata/xo/usql"]
+	path = rawdata/xo/usql
+	url = https://github.com/xo/usql.git
+[submodule "rawdata/zricethezav/gitleaks"]
+	path = rawdata/zricethezav/gitleaks
+	url = https://github.com/zricethezav/gitleaks.git
+[submodule "rawdata/weaveworks/weave"]
+	path = rawdata/weaveworks/weave
+	url = https://github.com/weaveworks/weave.git
+[submodule "rawdata/docker/classicswarm"]
+	path = rawdata/docker/classicswarm
+	url = https://github.com/docker/classicswarm.git
+[submodule "rawdata/google/go-github"]
+	path = rawdata/google/go-github
+	url = https://github.com/google/go-github.git
+[submodule "rawdata/containrrr/watchtower"]
+	path = rawdata/containrrr/watchtower
+	url = https://github.com/containrrr/watchtower.git
+[submodule "rawdata/teh-cmc/go-internals"]
+	path = rawdata/teh-cmc/go-internals
+	url = https://github.com/teh-cmc/go-internals.git
+[submodule "rawdata/aws/aws-sdk-go"]
+	path = rawdata/aws/aws-sdk-go
+	url = https://github.com/aws/aws-sdk-go.git
+[submodule "rawdata/Shopify/sarama"]
+	path = rawdata/Shopify/sarama
+	url = https://github.com/Shopify/sarama.git
+[submodule "rawdata/thanos-io/thanos"]
+	path = rawdata/thanos-io/thanos
+	url = https://github.com/thanos-io/thanos.git
+[submodule "rawdata/pkg/errors"]
+	path = rawdata/pkg/errors
+	url = https://github.com/pkg/errors.git
+[submodule "rawdata/kubeless/kubeless"]
+	path = rawdata/kubeless/kubeless
+	url = https://github.com/kubeless/kubeless.git
+[submodule "rawdata/pulumi/pulumi"]
+	path = rawdata/pulumi/pulumi
+	url = https://github.com/pulumi/pulumi.git
+[submodule "rawdata/ginuerzh/gost"]
+	path = rawdata/ginuerzh/gost
+	url = https://github.com/ginuerzh/gost.git
+[submodule "rawdata/jetstack/cert-manager"]
+	path = rawdata/jetstack/cert-manager
+	url = https://github.com/jetstack/cert-manager.git
+[submodule "rawdata/containerd/containerd"]
+	path = rawdata/containerd/containerd
+	url = https://github.com/containerd/containerd.git
+[submodule "rawdata/tools/godep"]
+	path = rawdata/tools/godep
+	url = https://github.com/tools/godep.git
+[submodule "rawdata/smartystreets/goconvey"]
+	path = rawdata/smartystreets/goconvey
+	url = https://github.com/smartystreets/goconvey.git
+[submodule "rawdata/goreleaser/goreleaser"]
+	path = rawdata/goreleaser/goreleaser
+	url = https://github.com/goreleaser/goreleaser.git
+[submodule "rawdata/gobuffalo/buffalo"]
+	path = rawdata/gobuffalo/buffalo
+	url = https://github.com/gobuffalo/buffalo.git
+[submodule "rawdata/Workiva/go-datastructures"]
+	path = rawdata/Workiva/go-datastructures
+	url = https://github.com/Workiva/go-datastructures.git
+[submodule "rawdata/argoproj/argo"]
+	path = rawdata/argoproj/argo
+	url = https://github.com/argoproj/argo.git
+[submodule "rawdata/linkerd/linkerd2"]
+	path = rawdata/linkerd/linkerd2
+	url = https://github.com/linkerd/linkerd2.git
+[submodule "rawdata/gofiber/fiber"]
+	path = rawdata/gofiber/fiber
+	url = https://github.com/gofiber/fiber.git
+[submodule "rawdata/kubernetes-sigs/kind"]
+	path = rawdata/kubernetes-sigs/kind
+	url = https://github.com/kubernetes-sigs/kind.git
+[submodule "rawdata/simeji/jid"]
+	path = rawdata/simeji/jid
+	url = https://github.com/simeji/jid.git
+[submodule "rawdata/nektos/act"]
+	path = rawdata/nektos/act
+	url = https://github.com/nektos/act.git
+[submodule "rawdata/cdr/sshcode"]
+	path = rawdata/cdr/sshcode
+	url = https://github.com/cdr/sshcode.git
+[submodule "rawdata/upspin/upspin"]
+	path = rawdata/upspin/upspin
+	url = https://github.com/upspin/upspin.git
+[submodule "rawdata/cilium/cilium"]
+	path = rawdata/cilium/cilium
+	url = https://github.com/cilium/cilium.git
+[submodule "rawdata/slackhq/nebula"]
+	path = rawdata/slackhq/nebula
+	url = https://github.com/slackhq/nebula.git
+[submodule "rawdata/TykTechnologies/tyk"]
+	path = rawdata/TykTechnologies/tyk
+	url = https://github.com/TykTechnologies/tyk.git
+[submodule "rawdata/kubernetes-sigs/kustomize"]
+	path = rawdata/kubernetes-sigs/kustomize
+	url = https://github.com/kubernetes-sigs/kustomize.git
+[submodule "rawdata/erroneousboat/slack-term"]
+	path = rawdata/erroneousboat/slack-term
+	url = https://github.com/erroneousboat/slack-term.git
+[submodule "rawdata/coreos/flannel"]
+	path = rawdata/coreos/flannel
+	url = https://github.com/coreos/flannel.git
+[submodule "rawdata/zserge/lorca"]
+	path = rawdata/zserge/lorca
+	url = https://github.com/zserge/lorca.git
+[submodule "rawdata/photoprism/photoprism"]
+	path = rawdata/photoprism/photoprism
+	url = https://github.com/photoprism/photoprism.git
+[submodule "rawdata/go-playground/validator"]
+	path = rawdata/go-playground/validator
+	url = https://github.com/go-playground/validator.git
+[submodule "rawdata/golangci/golangci-lint"]
+	path = rawdata/golangci/golangci-lint
+	url = https://github.com/golangci/golangci-lint.git
+[submodule "rawdata/robertkrimen/otto"]
+	path = rawdata/robertkrimen/otto
+	url = https://github.com/robertkrimen/otto.git
+[submodule "rawdata/filhodanuvem/gitql"]
+	path = rawdata/filhodanuvem/gitql
+	url = https://github.com/filhodanuvem/gitql.git
+[submodule "rawdata/docker/distribution"]
+	path = rawdata/docker/distribution
+	url = https://github.com/docker/distribution.git
+[submodule "rawdata/yeasy/blockchain_guide"]
+	path = rawdata/yeasy/blockchain_guide
+	url = https://github.com/yeasy/blockchain_guide.git
+[submodule "rawdata/adnanh/webhook"]
+	path = rawdata/adnanh/webhook
+	url = https://github.com/adnanh/webhook.git
+[submodule "rawdata/cloudflare/cfssl"]
+	path = rawdata/cloudflare/cfssl
+	url = https://github.com/cloudflare/cfssl.git
+[submodule "rawdata/gcla/termshark"]
+	path = rawdata/gcla/termshark
+	url = https://github.com/gcla/termshark.git
+[submodule "rawdata/go-ego/riot"]
+	path = rawdata/go-ego/riot
+	url = https://github.com/go-ego/riot.git
+[submodule "rawdata/kubernetes/kompose"]
+	path = rawdata/kubernetes/kompose
+	url = https://github.com/kubernetes/kompose.git
+[submodule "rawdata/flike/kingshard"]
+	path = rawdata/flike/kingshard
+	url = https://github.com/flike/kingshard.git
+[submodule "rawdata/go-swagger/go-swagger"]
+	path = rawdata/go-swagger/go-swagger
+	url = https://github.com/go-swagger/go-swagger.git
+[submodule "rawdata/fission/fission"]
+	path = rawdata/fission/fission
+	url = https://github.com/fission/fission.git
+[submodule "rawdata/src-d/go-git"]
+	path = rawdata/src-d/go-git
+	url = https://github.com/src-d/go-git.git
+[submodule "rawdata/olivere/elastic"]
+	path = rawdata/olivere/elastic
+	url = https://github.com/olivere/elastic.git
+[submodule "rawdata/google/seesaw"]
+	path = rawdata/google/seesaw
+	url = https://github.com/google/seesaw.git
+[submodule "rawdata/kardianos/govendor"]
+	path = rawdata/kardianos/govendor
+	url = https://github.com/kardianos/govendor.git
+[submodule "rawdata/tektoncd/pipeline"]
+	path = rawdata/tektoncd/pipeline
+	url = https://github.com/tektoncd/pipeline.git
+[submodule "rawdata/yinghuocho/firefly-proxy"]
+	path = rawdata/yinghuocho/firefly-proxy
+	url = https://github.com/yinghuocho/firefly-proxy.git
+[submodule "rawdata/akavel/up"]
+	path = rawdata/akavel/up
+	url = https://github.com/akavel/up.git
+[submodule "rawdata/dragonflyoss/Dragonfly"]
+	path = rawdata/dragonflyoss/Dragonfly
+	url = https://github.com/dragonflyoss/Dragonfly.git
+[submodule "rawdata/bitly/oauth2_proxy"]
+	path = rawdata/bitly/oauth2_proxy
+	url = https://github.com/bitly/oauth2_proxy.git
+[submodule "rawdata/concourse/concourse"]
+	path = rawdata/concourse/concourse
+	url = https://github.com/concourse/concourse.git
+[submodule "rawdata/shirou/gopsutil"]
+	path = rawdata/shirou/gopsutil
+	url = https://github.com/shirou/gopsutil.git
+[submodule "rawdata/hashicorp/serf"]
+	path = rawdata/hashicorp/serf
+	url = https://github.com/hashicorp/serf.git
+[submodule "rawdata/ponzu-cms/ponzu"]
+	path = rawdata/ponzu-cms/ponzu
+	url = https://github.com/ponzu-cms/ponzu.git
+[submodule "rawdata/nsf/gocode"]
+	path = rawdata/nsf/gocode
+	url = https://github.com/nsf/gocode.git
+[submodule "rawdata/cortexlabs/cortex"]
+	path = rawdata/cortexlabs/cortex
+	url = https://github.com/cortexlabs/cortex.git
+[submodule "rawdata/perkeep/perkeep"]
+	path = rawdata/perkeep/perkeep
+	url = https://github.com/perkeep/perkeep.git
+[submodule "rawdata/rakyll/boom"]
+	path = rawdata/rakyll/boom
+	url = https://github.com/rakyll/boom.git
+[submodule "rawdata/fluxcd/flux"]
+	path = rawdata/fluxcd/flux
+	url = https://github.com/fluxcd/flux.git
+[submodule "rawdata/Jguer/yay"]
+	path = rawdata/Jguer/yay
+	url = https://github.com/Jguer/yay.git
+[submodule "rawdata/cloudreve/Cloudreve"]
+	path = rawdata/cloudreve/Cloudreve
+	url = https://github.com/cloudreve/Cloudreve.git
+[submodule "rawdata/chromedp/chromedp"]
+	path = rawdata/chromedp/chromedp
+	url = https://github.com/chromedp/chromedp.git
+[submodule "rawdata/schollz/find"]
+	path = rawdata/schollz/find
+	url = https://github.com/schollz/find.git
+[submodule "rawdata/gotify/server"]
+	path = rawdata/gotify/server
+	url = https://github.com/gotify/server.git
+[submodule "rawdata/OpenDiablo2/OpenDiablo2"]
+	path = rawdata/OpenDiablo2/OpenDiablo2
+	url = https://github.com/OpenDiablo2/OpenDiablo2.git
+[submodule "rawdata/davecheney/httpstat"]
+	path = rawdata/davecheney/httpstat
+	url = https://github.com/davecheney/httpstat.git
+[submodule "rawdata/gophish/gophish"]
+	path = rawdata/gophish/gophish
+	url = https://github.com/gophish/gophish.git
+[submodule "rawdata/fiorix/freegeoip"]
+	path = rawdata/fiorix/freegeoip
+	url = https://github.com/fiorix/freegeoip.git
+[submodule "rawdata/inancgumus/learngo"]
+	path = rawdata/inancgumus/learngo
+	url = https://github.com/inancgumus/learngo.git
+[submodule "rawdata/appleboy/gorush"]
+	path = rawdata/appleboy/gorush
+	url = https://github.com/appleboy/gorush.git
+[submodule "rawdata/smallnest/rpcx"]
+	path = rawdata/smallnest/rpcx
+	url = https://github.com/smallnest/rpcx.git
+[submodule "rawdata/prometheus/node_exporter"]
+	path = rawdata/prometheus/node_exporter
+	url = https://github.com/prometheus/node_exporter.git
+[submodule "rawdata/wallix/awless"]
+	path = rawdata/wallix/awless
+	url = https://github.com/wallix/awless.git
+[submodule "rawdata/miekg/dns"]
+	path = rawdata/miekg/dns
+	url = https://github.com/miekg/dns.git
+[submodule "rawdata/fnproject/fn"]
+	path = rawdata/fnproject/fn
+	url = https://github.com/fnproject/fn.git
+[submodule "rawdata/pion/webrtc"]
+	path = rawdata/pion/webrtc
+	url = https://github.com/pion/webrtc.git
+[submodule "rawdata/facebookarchive/grace"]
+	path = rawdata/facebookarchive/grace
+	url = https://github.com/facebookarchive/grace.git
+[submodule "rawdata/google/battery-historian"]
+	path = rawdata/google/battery-historian
+	url = https://github.com/google/battery-historian.git
+[submodule "rawdata/containers/libpod"]
+	path = rawdata/containers/libpod
+	url = https://github.com/containers/libpod.git
+[submodule "rawdata/Shopify/toxiproxy"]
+	path = rawdata/Shopify/toxiproxy
+	url = https://github.com/Shopify/toxiproxy.git
+[submodule "rawdata/michenriksen/gitrob"]
+	path = rawdata/michenriksen/gitrob
+	url = https://github.com/michenriksen/gitrob.git
+[submodule "rawdata/dexidp/dex"]
+	path = rawdata/dexidp/dex
+	url = https://github.com/dexidp/dex.git
+[submodule "rawdata/lxn/walk"]
+	path = rawdata/lxn/walk
+	url = https://github.com/lxn/walk.git
+[submodule "rawdata/99designs/gqlgen"]
+	path = rawdata/99designs/gqlgen
+	url = https://github.com/99designs/gqlgen.git
+[submodule "rawdata/lightningnetwork/lnd"]
+	path = rawdata/lightningnetwork/lnd
+	url = https://github.com/lightningnetwork/lnd.git
+[submodule "rawdata/fogleman/nes"]
+	path = rawdata/fogleman/nes
+	url = https://github.com/fogleman/nes.git
+[submodule "rawdata/fsnotify/fsnotify"]
+	path = rawdata/fsnotify/fsnotify
+	url = https://github.com/fsnotify/fsnotify.git
+[submodule "rawdata/MichaelMure/git-bug"]
+	path = rawdata/MichaelMure/git-bug
+	url = https://github.com/MichaelMure/git-bug.git
+[submodule "rawdata/muesli/beehive"]
+	path = rawdata/muesli/beehive
+	url = https://github.com/muesli/beehive.git
+[submodule "rawdata/mongodb/mongo-go-driver"]
+	path = rawdata/mongodb/mongo-go-driver
+	url = https://github.com/mongodb/mongo-go-driver.git
+[submodule "rawdata/qor/qor"]
+	path = rawdata/qor/qor
+	url = https://github.com/qor/qor.git
+[submodule "rawdata/pachyderm/pachyderm"]
+	path = rawdata/pachyderm/pachyderm
+	url = https://github.com/pachyderm/pachyderm.git
+[submodule "rawdata/golang-migrate/migrate"]
+	path = rawdata/golang-migrate/migrate
+	url = https://github.com/golang-migrate/migrate.git
+[submodule "rawdata/google/gxui"]
+	path = rawdata/google/gxui
+	url = https://github.com/google/gxui.git
+[submodule "rawdata/jpillora/cloud-torrent"]
+	path = rawdata/jpillora/cloud-torrent
+	url = https://github.com/jpillora/cloud-torrent.git
+[submodule "rawdata/russross/blackfriday"]
+	path = rawdata/russross/blackfriday
+	url = https://github.com/russross/blackfriday.git
+[submodule "rawdata/weaveworks/scope"]
+	path = rawdata/weaveworks/scope
+	url = https://github.com/weaveworks/scope.git
+[submodule "rawdata/mozilla/sops"]
+	path = rawdata/mozilla/sops
+	url = https://github.com/mozilla/sops.git
+[submodule "rawdata/gliderlabs/registrator"]
+	path = rawdata/gliderlabs/registrator
+	url = https://github.com/gliderlabs/registrator.git
+[submodule "rawdata/rivo/tview"]
+	path = rawdata/rivo/tview
+	url = https://github.com/rivo/tview.git
+[submodule "rawdata/centrifugal/centrifugo"]
+	path = rawdata/centrifugal/centrifugo
+	url = https://github.com/centrifugal/centrifugo.git
+[submodule "rawdata/docker/docker-ce"]
+	path = rawdata/docker/docker-ce
+	url = https://github.com/docker/docker-ce.git
+[submodule "rawdata/coreos/prometheus-operator"]
+	path = rawdata/coreos/prometheus-operator
+	url = https://github.com/coreos/prometheus-operator.git
+[submodule "rawdata/uber/prototool"]
+	path = rawdata/uber/prototool
+	url = https://github.com/uber/prototool.git
+[submodule "rawdata/spiral/roadrunner"]
+	path = rawdata/spiral/roadrunner
+	url = https://github.com/spiral/roadrunner.git
+[submodule "rawdata/terraform-providers/terraform-provider-aws"]
+	path = rawdata/terraform-providers/terraform-provider-aws
+	url = https://github.com/terraform-providers/terraform-provider-aws.git
+[submodule "rawdata/coyove/goflyway"]
+	path = rawdata/coyove/goflyway
+	url = https://github.com/coyove/goflyway.git
+[submodule "rawdata/adonovan/gopl.io"]
+	path = rawdata/adonovan/gopl.io
+	url = https://github.com/adonovan/gopl.io.git
+[submodule "rawdata/alibaba/pouch"]
+	path = rawdata/alibaba/pouch
+	url = https://github.com/alibaba/pouch.git
+[submodule "rawdata/eranyanay/1m-go-websockets"]
+	path = rawdata/eranyanay/1m-go-websockets
+	url = https://github.com/eranyanay/1m-go-websockets.git
+[submodule "rawdata/tealeg/xlsx"]
+	path = rawdata/tealeg/xlsx
+	url = https://github.com/tealeg/xlsx.git
+[submodule "rawdata/Terry-Mao/goim"]
+	path = rawdata/Terry-Mao/goim
+	url = https://github.com/Terry-Mao/goim.git
+[submodule "rawdata/asaskevich/govalidator"]
+	path = rawdata/asaskevich/govalidator
+	url = https://github.com/asaskevich/govalidator.git
+[submodule "rawdata/google/git-appraise"]
+	path = rawdata/google/git-appraise
+	url = https://github.com/google/git-appraise.git
+[submodule "rawdata/tidwall/evio"]
+	path = rawdata/tidwall/evio
+	url = https://github.com/tidwall/evio.git
+[submodule "rawdata/golang/mock"]
+	path = rawdata/golang/mock
+	url = https://github.com/golang/mock.git
+[submodule "rawdata/geektutu/7days-golang"]
+	path = rawdata/geektutu/7days-golang
+	url = https://github.com/geektutu/7days-golang.git
+[submodule "rawdata/golang/mobile"]
+	path = rawdata/golang/mobile
+	url = https://github.com/golang/mobile.git
+[submodule "rawdata/MontFerret/ferret"]
+	path = rawdata/MontFerret/ferret
+	url = https://github.com/MontFerret/ferret.git
+[submodule "rawdata/mmcgrana/gobyexample"]
+	path = rawdata/mmcgrana/gobyexample
+	url = https://github.com/mmcgrana/gobyexample.git
+[submodule "rawdata/RichardKnop/machinery"]
+	path = rawdata/RichardKnop/machinery
+	url = https://github.com/RichardKnop/machinery.git
+[submodule "rawdata/lucas-clemente/quic-go"]
+	path = rawdata/lucas-clemente/quic-go
+	url = https://github.com/lucas-clemente/quic-go.git
+[submodule "rawdata/gaia-pipeline/gaia"]
+	path = rawdata/gaia-pipeline/gaia
+	url = https://github.com/gaia-pipeline/gaia.git
+[submodule "rawdata/golang/tools"]
+	path = rawdata/golang/tools
+	url = https://github.com/golang/tools.git
+[submodule "rawdata/twitchtv/twirp"]
+	path = rawdata/twitchtv/twirp
+	url = https://github.com/twitchtv/twirp.git
+[submodule "rawdata/google/gops"]
+	path = rawdata/google/gops
+	url = https://github.com/google/gops.git
+[submodule "rawdata/go-acme/lego"]
+	path = rawdata/go-acme/lego
+	url = https://github.com/go-acme/lego.git
+[submodule "rawdata/lifei6671/mindoc"]
+	path = rawdata/lifei6671/mindoc
+	url = https://github.com/lifei6671/mindoc.git
+[submodule "rawdata/go-yaml/yaml"]
+	path = rawdata/go-yaml/yaml
+	url = https://github.com/go-yaml/yaml.git
+[submodule "rawdata/gliderlabs/logspout"]
+	path = rawdata/gliderlabs/logspout
+	url = https://github.com/gliderlabs/logspout.git
+[submodule "rawdata/vmware-tanzu/octant"]
+	path = rawdata/vmware-tanzu/octant
+	url = https://github.com/vmware-tanzu/octant.git
+[submodule "rawdata/EasyDarwin/EasyDarwin"]
+	path = rawdata/EasyDarwin/EasyDarwin
+	url = https://github.com/EasyDarwin/EasyDarwin.git
+[submodule "rawdata/jpillora/chisel"]
+	path = rawdata/jpillora/chisel
+	url = https://github.com/jpillora/chisel.git
+[submodule "rawdata/go-flutter-desktop/go-flutter"]
+	path = rawdata/go-flutter-desktop/go-flutter
+	url = https://github.com/go-flutter-desktop/go-flutter.git
+[submodule "rawdata/goproxyio/goproxy"]
+	path = rawdata/goproxyio/goproxy
+	url = https://github.com/goproxyio/goproxy.git
+[submodule "rawdata/aquasecurity/trivy"]
+	path = rawdata/aquasecurity/trivy
+	url = https://github.com/aquasecurity/trivy.git
+[submodule "rawdata/shazow/ssh-chat"]
+	path = rawdata/shazow/ssh-chat
+	url = https://github.com/shazow/ssh-chat.git
+[submodule "rawdata/hashicorp/consul-template"]
+	path = rawdata/hashicorp/consul-template
+	url = https://github.com/hashicorp/consul-template.git
+[submodule "rawdata/gruntwork-io/terratest"]
+	path = rawdata/gruntwork-io/terratest
+	url = https://github.com/gruntwork-io/terratest.git
+[submodule "rawdata/microsoft/ethr"]
+	path = rawdata/microsoft/ethr
+	url = https://github.com/microsoft/ethr.git
+[submodule "rawdata/onsi/ginkgo"]
+	path = rawdata/onsi/ginkgo
+	url = https://github.com/onsi/ginkgo.git
+[submodule "rawdata/vmware-tanzu/velero"]
+	path = rawdata/vmware-tanzu/velero
+	url = https://github.com/vmware-tanzu/velero.git
+[submodule "rawdata/Azure/draft"]
+	path = rawdata/Azure/draft
+	url = https://github.com/Azure/draft.git
+[submodule "rawdata/aelsabbahy/goss"]
+	path = rawdata/aelsabbahy/goss
+	url = https://github.com/aelsabbahy/goss.git
+[submodule "rawdata/patrickmn/go-cache"]
+	path = rawdata/patrickmn/go-cache
+	url = https://github.com/patrickmn/go-cache.git
+[submodule "rawdata/allegro/bigcache"]
+	path = rawdata/allegro/bigcache
+	url = https://github.com/allegro/bigcache.git
+[submodule "rawdata/dropbox/godropbox"]
+	path = rawdata/dropbox/godropbox
+	url = https://github.com/dropbox/godropbox.git
+[submodule "rawdata/gruntwork-io/terragrunt"]
+	path = rawdata/gruntwork-io/terragrunt
+	url = https://github.com/gruntwork-io/terragrunt.git
+[submodule "rawdata/btcsuite/btcd"]
+	path = rawdata/btcsuite/btcd
+	url = https://github.com/btcsuite/btcd.git
+[submodule "rawdata/davecgh/go-spew"]
+	path = rawdata/davecgh/go-spew
+	url = https://github.com/davecgh/go-spew.git
+[submodule "rawdata/FiloSottile/age"]
+	path = rawdata/FiloSottile/age
+	url = https://github.com/FiloSottile/age.git
+[submodule "rawdata/cookieY/Yearning"]
+	path = rawdata/cookieY/Yearning
+	url = https://github.com/cookieY/Yearning.git
+[submodule "rawdata/contribsys/faktory"]
+	path = rawdata/contribsys/faktory
+	url = https://github.com/contribsys/faktory.git
+[submodule "rawdata/travisjeffery/jocko"]
+	path = rawdata/travisjeffery/jocko
+	url = https://github.com/travisjeffery/jocko.git
+[submodule "rawdata/HFO4/gameboy.live"]
+	path = rawdata/HFO4/gameboy.live
+	url = https://github.com/HFO4/gameboy.live.git
+[submodule "rawdata/gonum/gonum"]
+	path = rawdata/gonum/gonum
+	url = https://github.com/gonum/gonum.git
+[submodule "rawdata/goadesign/goa"]
+	path = rawdata/goadesign/goa
+	url = https://github.com/goadesign/goa.git
+[submodule "rawdata/schollz/find3"]
+	path = rawdata/schollz/find3
+	url = https://github.com/schollz/find3.git
+[submodule "rawdata/motemen/gore"]
+	path = rawdata/motemen/gore
+	url = https://github.com/motemen/gore.git
+[submodule "rawdata/go-pg/pg"]
+	path = rawdata/go-pg/pg
+	url = https://github.com/go-pg/pg.git
+[submodule "rawdata/elves/elvish"]
+	path = rawdata/elves/elvish
+	url = https://github.com/elves/elvish.git
+[submodule "rawdata/uber-archive/go-torch"]
+	path = rawdata/uber-archive/go-torch
+	url = https://github.com/uber-archive/go-torch.git
+[submodule "rawdata/nsf/termbox-go"]
+	path = rawdata/nsf/termbox-go
+	url = https://github.com/nsf/termbox-go.git
+[submodule "rawdata/sql-machine-learning/sqlflow"]
+	path = rawdata/sql-machine-learning/sqlflow
+	url = https://github.com/sql-machine-learning/sqlflow.git
+[submodule "rawdata/gogo/protobuf"]
+	path = rawdata/gogo/protobuf
+	url = https://github.com/gogo/protobuf.git
+[submodule "rawdata/emicklei/go-restful"]
+	path = rawdata/emicklei/go-restful
+	url = https://github.com/emicklei/go-restful.git
+[submodule "rawdata/google/wire"]
+	path = rawdata/google/wire
+	url = https://github.com/google/wire.git
+[submodule "rawdata/uber/cadence"]
+	path = rawdata/uber/cadence
+	url = https://github.com/uber/cadence.git
+[submodule "rawdata/tj/node-prune"]
+	path = rawdata/tj/node-prune
+	url = https://github.com/tj/node-prune.git
+[submodule "rawdata/elazarl/goproxy"]
+	path = rawdata/elazarl/goproxy
+	url = https://github.com/elazarl/goproxy.git
+[submodule "rawdata/mitchellh/gox"]
+	path = rawdata/mitchellh/gox
+	url = https://github.com/mitchellh/gox.git
+[submodule "rawdata/syndtr/goleveldb"]
+	path = rawdata/syndtr/goleveldb
+	url = https://github.com/syndtr/goleveldb.git
+[submodule "rawdata/satori/go.uuid"]
+	path = rawdata/satori/go.uuid
+	url = https://github.com/satori/go.uuid.git
+[submodule "rawdata/maxence-charriere/go-app"]
+	path = rawdata/maxence-charriere/go-app
+	url = https://github.com/maxence-charriere/go-app.git
+[submodule "rawdata/wercker/stern"]
+	path = rawdata/wercker/stern
+	url = https://github.com/wercker/stern.git
+[submodule "rawdata/rgburke/grv"]
+	path = rawdata/rgburke/grv
+	url = https://github.com/rgburke/grv.git
+[submodule "rawdata/jpmorganchase/quorum"]
+	path = rawdata/jpmorganchase/quorum
+	url = https://github.com/jpmorganchase/quorum.git
+[submodule "rawdata/tophubs/TopList"]
+	path = rawdata/tophubs/TopList
+	url = https://github.com/tophubs/TopList.git
+[submodule "rawdata/alexflint/gallium"]
+	path = rawdata/alexflint/gallium
+	url = https://github.com/alexflint/gallium.git
+[submodule "rawdata/oxequa/realize"]
+	path = rawdata/oxequa/realize
+	url = https://github.com/oxequa/realize.git
+[submodule "rawdata/getlantern/lantern"]
+	path = rawdata/getlantern/lantern
+	url = https://github.com/getlantern/lantern.git
+[submodule "rawdata/knadh/listmonk"]
+	path = rawdata/knadh/listmonk
+	url = https://github.com/knadh/listmonk.git
+[submodule "rawdata/panjf2000/ants"]
+	path = rawdata/panjf2000/ants
+	url = https://github.com/panjf2000/ants.git
+[submodule "rawdata/tendermint/tendermint"]
+	path = rawdata/tendermint/tendermint
+	url = https://github.com/tendermint/tendermint.git
+[submodule "rawdata/huichen/wukong"]
+	path = rawdata/huichen/wukong
+	url = https://github.com/huichen/wukong.git
+[submodule "rawdata/kashav/fsql"]
+	path = rawdata/kashav/fsql
+	url = https://github.com/kashav/fsql.git
+[submodule "rawdata/jwilder/docker-gen"]
+	path = rawdata/jwilder/docker-gen
+	url = https://github.com/jwilder/docker-gen.git
+[submodule "rawdata/fanpei91/torsniff"]
+	path = rawdata/fanpei91/torsniff
+	url = https://github.com/fanpei91/torsniff.git
+[submodule "rawdata/zenazn/goji"]
+	path = rawdata/zenazn/goji
+	url = https://github.com/zenazn/goji.git
+[submodule "rawdata/sourcegraph/sourcegraph"]
+	path = rawdata/sourcegraph/sourcegraph
+	url = https://github.com/sourcegraph/sourcegraph.git
+[submodule "rawdata/gchaincl/httplab"]
+	path = rawdata/gchaincl/httplab
+	url = https://github.com/gchaincl/httplab.git
+[submodule "rawdata/alecthomas/gometalinter"]
+	path = rawdata/alecthomas/gometalinter
+	url = https://github.com/alecthomas/gometalinter.git
+[submodule "rawdata/hashicorp/raft"]
+	path = rawdata/hashicorp/raft
+	url = https://github.com/hashicorp/raft.git
+[submodule "rawdata/openark/orchestrator"]
+	path = rawdata/openark/orchestrator
+	url = https://github.com/openark/orchestrator.git
+[submodule "rawdata/jung-kurt/gofpdf"]
+	path = rawdata/jung-kurt/gofpdf
+	url = https://github.com/jung-kurt/gofpdf.git
+[submodule "rawdata/name5566/leaf"]
+	path = rawdata/name5566/leaf
+	url = https://github.com/name5566/leaf.git
+[submodule "rawdata/OWASP/Go-SCP"]
+	path = rawdata/OWASP/Go-SCP
+	url = https://github.com/OWASP/Go-SCP.git
+[submodule "rawdata/golang/lint"]
+	path = rawdata/golang/lint
+	url = https://github.com/golang/lint.git
+[submodule "rawdata/yuin/gopher-lua"]
+	path = rawdata/yuin/gopher-lua
+	url = https://github.com/yuin/gopher-lua.git
+[submodule "rawdata/jenkins-x/jx"]
+	path = rawdata/jenkins-x/jx
+	url = https://github.com/jenkins-x/jx.git
+[submodule "rawdata/anacrolix/torrent"]
+	path = rawdata/anacrolix/torrent
+	url = https://github.com/anacrolix/torrent.git
+[submodule "rawdata/99designs/aws-vault"]
+	path = rawdata/99designs/aws-vault
+	url = https://github.com/99designs/aws-vault.git
+[submodule "rawdata/imgproxy/imgproxy"]
+	path = rawdata/imgproxy/imgproxy
+	url = https://github.com/imgproxy/imgproxy.git
+[submodule "rawdata/googollee/go-socket.io"]
+	path = rawdata/googollee/go-socket.io
+	url = https://github.com/googollee/go-socket.io.git
+[submodule "rawdata/operator-framework/operator-sdk"]
+	path = rawdata/operator-framework/operator-sdk
+	url = https://github.com/operator-framework/operator-sdk.git
+[submodule "rawdata/tilt-dev/tilt"]
+	path = rawdata/tilt-dev/tilt
+	url = https://github.com/tilt-dev/tilt.git
+[submodule "rawdata/buger/jsonparser"]
+	path = rawdata/buger/jsonparser
+	url = https://github.com/buger/jsonparser.git
+[submodule "rawdata/fatih/color"]
+	path = rawdata/fatih/color
+	url = https://github.com/fatih/color.git
+[submodule "rawdata/google/pprof"]
+	path = rawdata/google/pprof
+	url = https://github.com/google/pprof.git
+[submodule "rawdata/ro31337/libretaxi"]
+	path = rawdata/ro31337/libretaxi
+	url = https://github.com/ro31337/libretaxi.git
+[submodule "rawdata/gomatcha/matcha"]
+	path = rawdata/gomatcha/matcha
+	url = https://github.com/gomatcha/matcha.git
+[submodule "rawdata/open-policy-agent/opa"]
+	path = rawdata/open-policy-agent/opa
+	url = https://github.com/open-policy-agent/opa.git
+[submodule "rawdata/kubesphere/kubesphere"]
+	path = rawdata/kubesphere/kubesphere
+	url = https://github.com/kubesphere/kubesphere.git
+[submodule "rawdata/hoisie/web"]
+	path = rawdata/hoisie/web
+	url = https://github.com/hoisie/web.git
+[submodule "rawdata/michenriksen/aquatone"]
+	path = rawdata/michenriksen/aquatone
+	url = https://github.com/michenriksen/aquatone.git
+[submodule "rawdata/dvyukov/go-fuzz"]
+	path = rawdata/dvyukov/go-fuzz
+	url = https://github.com/dvyukov/go-fuzz.git
+[submodule "rawdata/google/gopacket"]
+	path = rawdata/google/gopacket
+	url = https://github.com/google/gopacket.git
+[submodule "rawdata/Tencent/bk-cmdb"]
+	path = rawdata/Tencent/bk-cmdb
+	url = https://github.com/Tencent/bk-cmdb.git
+[submodule "rawdata/kubernetes/client-go"]
+	path = rawdata/kubernetes/client-go
+	url = https://github.com/kubernetes/client-go.git
+[submodule "rawdata/ant0ine/go-json-rest"]
+	path = rawdata/ant0ine/go-json-rest
+	url = https://github.com/ant0ine/go-json-rest.git
+[submodule "rawdata/mozilla-services/heka"]
+	path = rawdata/mozilla-services/heka
+	url = https://github.com/mozilla-services/heka.git
+[submodule "rawdata/baidu/bfe"]
+	path = rawdata/baidu/bfe
+	url = https://github.com/baidu/bfe.git
+[submodule "rawdata/igrigorik/ga-beacon"]
+	path = rawdata/igrigorik/ga-beacon
+	url = https://github.com/igrigorik/ga-beacon.git
+[submodule "rawdata/gopasspw/gopass"]
+	path = rawdata/gopasspw/gopass
+	url = https://github.com/gopasspw/gopass.git
+[submodule "rawdata/letsencrypt/boulder"]
+	path = rawdata/letsencrypt/boulder
+	url = https://github.com/letsencrypt/boulder.git
+[submodule "rawdata/rs/zerolog"]
+	path = rawdata/rs/zerolog
+	url = https://github.com/rs/zerolog.git
+[submodule "rawdata/uber/kraken"]
+	path = rawdata/uber/kraken
+	url = https://github.com/uber/kraken.git
+[submodule "rawdata/jwilder/dockerize"]
+	path = rawdata/jwilder/dockerize
+	url = https://github.com/jwilder/dockerize.git
+[submodule "rawdata/mitchellh/mapstructure"]
+	path = rawdata/mitchellh/mapstructure
+	url = https://github.com/mitchellh/mapstructure.git
+[submodule "rawdata/gorgonia/gorgonia"]
+	path = rawdata/gorgonia/gorgonia
+	url = https://github.com/gorgonia/gorgonia.git
+[submodule "rawdata/codegangsta/gin"]
+	path = rawdata/codegangsta/gin
+	url = https://github.com/codegangsta/gin.git
+[submodule "rawdata/manifoldco/promptui"]
+	path = rawdata/manifoldco/promptui
+	url = https://github.com/manifoldco/promptui.git
+[submodule "rawdata/go-gorp/gorp"]
+	path = rawdata/go-gorp/gorp
+	url = https://github.com/go-gorp/gorp.git
+[submodule "rawdata/ansible-semaphore/semaphore"]
+	path = rawdata/ansible-semaphore/semaphore
+	url = https://github.com/ansible-semaphore/semaphore.git
+[submodule "rawdata/DisposaBoy/GoSublime"]
+	path = rawdata/DisposaBoy/GoSublime
+	url = https://github.com/DisposaBoy/GoSublime.git
+[submodule "rawdata/vugu/vugu"]
+	path = rawdata/vugu/vugu
+	url = https://github.com/vugu/vugu.git
+[submodule "rawdata/heroiclabs/nakama"]
+	path = rawdata/heroiclabs/nakama
+	url = https://github.com/heroiclabs/nakama.git
+[submodule "rawdata/graph-gophers/graphql-go"]
+	path = rawdata/graph-gophers/graphql-go
+	url = https://github.com/graph-gophers/graphql-go.git
+[submodule "rawdata/tsuru/tsuru"]
+	path = rawdata/tsuru/tsuru
+	url = https://github.com/tsuru/tsuru.git
+[submodule "rawdata/ffhelicopter/Go42"]
+	path = rawdata/ffhelicopter/Go42
+	url = https://github.com/ffhelicopter/Go42.git
+[submodule "rawdata/burke/zeus"]
+	path = rawdata/burke/zeus
+	url = https://github.com/burke/zeus.git
+[submodule "rawdata/tinode/chat"]
+	path = rawdata/tinode/chat
+	url = https://github.com/tinode/chat.git
+[submodule "rawdata/GoAdminGroup/go-admin"]
+	path = rawdata/GoAdminGroup/go-admin
+	url = https://github.com/GoAdminGroup/go-admin.git
+[submodule "rawdata/OWASP/Amass"]
+	path = rawdata/OWASP/Amass
+	url = https://github.com/OWASP/Amass.git
+[submodule "rawdata/variadico/noti"]
+	path = rawdata/variadico/noti
+	url = https://github.com/variadico/noti.git
+[submodule "rawdata/ledisdb/ledisdb"]
+	path = rawdata/ledisdb/ledisdb
+	url = https://github.com/ledisdb/ledisdb.git
+[submodule "rawdata/gilbertchen/duplicacy"]
+	path = rawdata/gilbertchen/duplicacy
+	url = https://github.com/gilbertchen/duplicacy.git
+[submodule "rawdata/nuclio/nuclio"]
+	path = rawdata/nuclio/nuclio
+	url = https://github.com/nuclio/nuclio.git
+[submodule "rawdata/tianon/gosu"]
+	path = rawdata/tianon/gosu
+	url = https://github.com/tianon/gosu.git
+[submodule "rawdata/adtac/commento"]
+	path = rawdata/adtac/commento
+	url = https://github.com/adtac/commento.git
+[submodule "rawdata/meshbird/meshbird"]
+	path = rawdata/meshbird/meshbird
+	url = https://github.com/meshbird/meshbird.git
+[submodule "rawdata/gwuhaolin/lightsocks"]
+	path = rawdata/gwuhaolin/lightsocks
+	url = https://github.com/gwuhaolin/lightsocks.git
+[submodule "rawdata/securego/gosec"]
+	path = rawdata/securego/gosec
+	url = https://github.com/securego/gosec.git
+[submodule "rawdata/astaxie/go-best-practice"]
+	path = rawdata/astaxie/go-best-practice
+	url = https://github.com/astaxie/go-best-practice.git
+[submodule "rawdata/asticode/go-astilectron"]
+	path = rawdata/asticode/go-astilectron
+	url = https://github.com/asticode/go-astilectron.git
+[submodule "rawdata/hybridgroup/gocv"]
+	path = rawdata/hybridgroup/gocv
+	url = https://github.com/hybridgroup/gocv.git
+[submodule "rawdata/streadway/amqp"]
+	path = rawdata/streadway/amqp
+	url = https://github.com/streadway/amqp.git
+[submodule "rawdata/dominikh/go-tools"]
+	path = rawdata/dominikh/go-tools
+	url = https://github.com/dominikh/go-tools.git
+[submodule "rawdata/BurntSushi/toml"]
+	path = rawdata/BurntSushi/toml
+	url = https://github.com/BurntSushi/toml.git
+[submodule "rawdata/hasura/gitkube"]
+	path = rawdata/hasura/gitkube
+	url = https://github.com/hasura/gitkube.git
+[submodule "rawdata/OJ/gobuster"]
+	path = rawdata/OJ/gobuster
+	url = https://github.com/OJ/gobuster.git
+[submodule "rawdata/davyxu/cellnet"]
+	path = rawdata/davyxu/cellnet
+	url = https://github.com/davyxu/cellnet.git
+[submodule "rawdata/bitly/go-simplejson"]
+	path = rawdata/bitly/go-simplejson
+	url = https://github.com/bitly/go-simplejson.git
+[submodule "rawdata/AsynkronIT/protoactor-go"]
+	path = rawdata/AsynkronIT/protoactor-go
+	url = https://github.com/AsynkronIT/protoactor-go.git
+[submodule "rawdata/ha/doozerd"]
+	path = rawdata/ha/doozerd
+	url = https://github.com/ha/doozerd.git
+[submodule "rawdata/kubernetes/autoscaler"]
+	path = rawdata/kubernetes/autoscaler
+	url = https://github.com/kubernetes/autoscaler.git
+[submodule "rawdata/prometheus/alertmanager"]
+	path = rawdata/prometheus/alertmanager
+	url = https://github.com/prometheus/alertmanager.git
+[submodule "rawdata/gobwas/ws"]
+	path = rawdata/gobwas/ws
+	url = https://github.com/gobwas/ws.git
+[submodule "rawdata/kgretzky/evilginx2"]
+	path = rawdata/kgretzky/evilginx2
+	url = https://github.com/kgretzky/evilginx2.git
+[submodule "rawdata/fullstorydev/grpcurl"]
+	path = rawdata/fullstorydev/grpcurl
+	url = https://github.com/fullstorydev/grpcurl.git
+[submodule "rawdata/gomods/athens"]
+	path = rawdata/gomods/athens
+	url = https://github.com/gomods/athens.git
+[submodule "rawdata/schollz/croc"]
+	path = rawdata/schollz/croc
+	url = https://github.com/schollz/croc.git
+[submodule "rawdata/nytimes/gizmo"]
+	path = rawdata/nytimes/gizmo
+	url = https://github.com/nytimes/gizmo.git
+[submodule "rawdata/disintegration/imaging"]
+	path = rawdata/disintegration/imaging
+	url = https://github.com/disintegration/imaging.git
+[submodule "rawdata/gogf/gf"]
+	path = rawdata/gogf/gf
+	url = https://github.com/gogf/gf.git
+[submodule "rawdata/googleforgames/agones"]
+	path = rawdata/googleforgames/agones
+	url = https://github.com/googleforgames/agones.git
+[submodule "rawdata/kubernetes-sigs/external-dns"]
+	path = rawdata/kubernetes-sigs/external-dns
+	url = https://github.com/kubernetes-sigs/external-dns.git
+[submodule "rawdata/gwuhaolin/livego"]
+	path = rawdata/gwuhaolin/livego
+	url = https://github.com/gwuhaolin/livego.git
