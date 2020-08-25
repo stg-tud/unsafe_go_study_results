@@ -14,7 +14,7 @@ To create and process the data for our study, we used the following pipeline:
 
  1. Raw projects and dependencies. This set contains the 500 open-source Go projects that we crawled from GitHub.
     The projects at the specific revision that we examined are referenced in this repository through Git submodules.
-    The `rawdata` directory contains the submodules.
+    The `projects` directory contains the submodules.
  2. Package and unsafe data. From the projects and their dependencies, we compiled the list of all packages used
     transitively. Within all packages, we identified usages of `unsafe` Go code. The results of this stage are
     included in the `data` directory.
@@ -35,13 +35,14 @@ The directories in this repository contain the following:
    (app). Each directory contains subfolders with names similar to `efficiency__cast-struct`, where the purpose
    label and usage label as used in our paper are included, separated by two underscores. Each of the directories
    contains one file for each classified usage, as described in more detail below.
- - `rawdata` contains Git submodules for each of the 500 projects under examination, set to the specific revision
+ - `projects` contains Git submodules for each of the 500 projects under examination, set to the specific revision
    that we analyzed.
  - `scrips` contains Python scripts to replicate the figures and tables included in our paper, as well as the
-   data acquisition tool that we used to extract unsafe code blocks from the projects.
+   data acquisition tool that we used to extract unsafe code blocks from the projects and a Jupyter notebook with
+   the Python code that we used to explore the data.
 
 
-## Rawdata: project code and dependencies
+## Raw project data: project code and dependencies
 
 We analyzed the 500 top-rated Go projects from GitHub. They are referenced through Git submodules in this repository.
 From these, we excluded 150 projecs that did not yet support modules, and 7 which did not compile.
@@ -117,6 +118,9 @@ there can be more projects in the data set that share usage of the snippet), and
 name. The information is guaranteed to be in the same line number across files. The second section contains the snippet
 code line. The third and fourth section contain a +/- 5 lines and +/- 100 lines context, respectively.
 
+Additionally, the labaled data set is included in machine-readable CSV format in the `data/sampled_usages_app.csv.gz` and
+`data/sampled_usaged_std.csv.gz` as described previously.
+
 
 ## How to reproduce figures and tables
 
@@ -147,6 +151,12 @@ To execute the scripts, you need the following Python libraries:
 To reproduce the data set, first obtain the raw project code and dependencies. The easiest way to do this is to get the
 compressed archive with the exact project code that we used from our Zenodo record:
 [https://zenodo.org/deposit/3987400](https://zenodo.org/deposit/3987400)
+
+Alternatively, you can recursively clone this repository to check out the projects data set submodules. The projects
+are included as submodules at the correct revision that we used for analysis in this repository. They are located in
+the `projects` directory. After recursively cloning the repositories, you may need to run `go mod vendor` in the root
+directory of each repository to make sure that all dependencies are properly downloaded. This step is unnecessary when
+using the Zenodo record.
 
 Then, build and execute the data acquisition tool in the `scripts/data-acquisition-tool` directory. The folder contains
 a README file with the build instructions and usage information.
