@@ -12,32 +12,32 @@ E-mail: {baumgaertner, wickert, mezini} (with) cs.tu-darmstadt.de, jlauinger (wi
 
 To create and process the data for our study, we used the following pipeline:
 
- 1. Raw projects and dependencies. This set contains the 500 open-source Go projects that we crawled from GitHub.
+ 1. **Raw Projects and Dependencies.** This set contains the 500 open-source Go projects that we crawled from GitHub.
     The projects at the specific revision that we examined are referenced in this repository through Git submodules.
-    The `projects` directory contains the submodules.
- 2. Package and unsafe data. From the projects and their dependencies, we compiled the list of all packages used
+    The `projects/` directory contains the submodules.
+ 2. **Package and Unsafe Data.** From the projects and their dependencies, we compiled the list of all packages used
     transitively. Within all packages, we identified usages of `unsafe` Go code. The results of this stage are
-    included in the `data` directory.
- 3. We used Python to examine the data and sample 1,400 code snippets for manual classification by unsafe usage type
-    and purpose. The results of this stage are included in the `analysis` and `labeled-usages-dataset` directories.
+    included in the `data/` directory.
+ 3. **Labeled Unsafe Usages.** We used Python to examine the data and sample 1,400 code snippets for manual classification by unsafe usage type
+    and purpose. The results of this stage are included in the `analysis/` and `labeled-usages-dataset/` directories.
 
 
 ## Directory structure
 
 The directories in this repository contain the following:
 
- - `analysis` contains the Jupyter notebook with the Python code to reproduce our analysis steps on the data.
- - `data` contains gzipped versions of the CSV files holding project, package, and unsafe code block information,
+ - `analysis/` contains the Jupyter notebook with the Python code to reproduce our analysis steps on the data.
+ - `data/` contains gzipped versions of the CSV files holding project, package, and unsafe code block information,
    as well as the sampled and labeled code snippets.
- - `figures` contains Figures 1 to 5 as included in our paper.
- - `labeled-usages-dataset` contains our data set of labaled usages of unsafe code blocks in Go code. The data set
-   is divided into 400 Go standard library usages (std) and 1,000 application code (non-standard library) usages
+ - `figures/` contains Figures 1 to 5 as included in our paper.
+ - `labeled-usages-dataset/` contains our data set of labaled usages of unsafe code blocks in Go code. The data set
+   is divided into 400 Go standard library usages (*std*) and 1,000 application code (non-standard library) usages
    (app). Each directory contains subfolders with names similar to `efficiency__cast-struct`, where the purpose
    label and usage label as used in our paper are included, separated by two underscores. Each of the directories
    contains one file for each classified usage, as described in more detail below.
- - `projects` contains Git submodules for each of the 500 projects under examination, set to the specific revision
+ - `projects/` contains Git submodules for each of the 500 projects under examination, set to the specific revision
    that we analyzed.
- - `scrips` contains Python scripts to replicate the figures and tables included in our paper, as well as the
+ - `scripts/` contains Python scripts to replicate the figures and tables included in our paper, as well as the
    data acquisition tool that we used to extract unsafe code blocks from the projects and a Jupyter notebook with
    the Python code that we used to explore the data.
 
@@ -51,21 +51,21 @@ The projects that did not support Go modules can be identified from the `data/pr
 `project_used_modules` column. The projects that did not compile are listed in the `data/projects_with_errors.txt`
 file.
 
-To make it easier to fetch the projects in the exact revision we used for reproduction of the study, as well as to
-get the correct dependency versions, we provide the projects and dependencies as `tar.gz` compressed archives on the
+To make it easier to reproduce our study and to fetch the projects we analyzed with their exact revision, as well as to
+get the correct dependency versions, we also provide the projects and dependencies as `tar.gz` compressed archives on the
 Zenodo platform: [https://zenodo.org/deposit/3987400](https://zenodo.org/deposit/3987400)
 
 
 ## Data: unsafe code blocks
 
 The `data/geiger_findings_0_499.csv.gz` file contains the unsafe code findings. Each line in the file represents one
-finding. It holds the corresponding code line, as +/- 5 lines code context, as well as meta data about the finding.
-The meta data includes the line number, column, file, package, module, and project where it was found. Package and
+finding. It holds the corresponding code line, as +/- 5 lines of code context, as well as meta data about the finding.
+This meta data includes the line number, column, file, package, module, and project where it was found. Package and
 project data is a foreign key to the `data/packages_0_499.csv.gz` and `data/projects.csv.gz` files, respectively,
 which provide more detailed information. For example, the packages file contains total finding counts for each
 package.
 
-The `data` directory also contains the `sampled_usages_app.csv.gz` and `sampled_usages_std.csv.gz` files, which are
+The `data/` directory also contains the `sampled_usages_app.csv.gz` and `sampled_usages_std.csv.gz` files, which are
 samples subsets of the `geiger_findings_0_499.csv.gz` file containing 1,000 and 400 unique samples together with two
 labels for each line.
 
@@ -124,7 +124,7 @@ Additionally, the labaled data set is included in machine-readable CSV format in
 
 ## How to reproduce figures and tables
 
-To reproduce the figures and tables included in our paper, simply execute the corresponding scripts in the `scripts` directory.
+To reproduce the figures and tables included in our paper, simply execute the corresponding scripts in the `scripts/` directory.
 They also provide formal documentation about the specific data analysis that we did:
 
 ```
@@ -154,7 +154,7 @@ compressed archive with the exact project code that we used from our Zenodo reco
 
 Alternatively, you can recursively clone this repository to check out the projects data set submodules. The projects
 are included as submodules at the correct revision that we used for analysis in this repository. They are located in
-the `projects` directory. After recursively cloning the repositories, you may need to run `go mod vendor` in the root
+the `projects/` directory. After recursively cloning the repositories, you may need to run `go mod vendor` in the root
 directory of each repository to make sure that all dependencies are properly downloaded. This step is unnecessary when
 using the Zenodo record.
 
