@@ -1,5 +1,7 @@
 # Data Set: Finding Unsafe Go Code in the Wild
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4001747.svg)](https://doi.org/10.5281/zenodo.4001747)
+
 This is the data set and scripts for our paper "Uncovering the Hidden Dangers: Finding Unsafe Go Code in the Wild".
 
 **Authors:**  
