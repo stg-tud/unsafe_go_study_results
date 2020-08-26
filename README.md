@@ -26,7 +26,6 @@ To create and process the data for our study, we used the following pipeline:
 
 The directories in this repository contain the following:
 
- - `analysis/` contains the Jupyter notebook with the Python code to reproduce our analysis steps on the data.
  - `data/` contains gzipped versions of the CSV files holding project, package, and unsafe code block information,
    as well as the sampled and labeled code snippets.
  - `figures/` contains Figures 1 to 5 as included in our paper.
