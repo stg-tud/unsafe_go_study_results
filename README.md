@@ -52,7 +52,7 @@ file.
 
 To make it easier to reproduce our study and to fetch the projects we analyzed with their exact revision, as well as to
 get the correct dependency versions, we also provide the projects and dependencies as `tar.gz` compressed archives on the
-Zenodo platform: [https://zenodo.org/deposit/3987400](https://zenodo.org/deposit/3987400)
+Zenodo platform: [https://zenodo.org/record/4001728](https://zenodo.org/record/4001728)
 
 
 ## Data: unsafe code blocks
@@ -149,7 +149,7 @@ To execute the scripts, you need the following Python libraries:
 
 To reproduce the data set, first obtain the raw project code and dependencies. The easiest way to do this is to get the
 compressed archive with the exact project code that we used from our Zenodo record:
-[https://zenodo.org/deposit/3987400](https://zenodo.org/deposit/3987400)
+[https://zenodo.org/record/4001728](https://zenodo.org/record/4001728)
 
 Alternatively, you can recursively clone this repository to check out the projects data set submodules. The projects
 are included as submodules at the correct revision that we used for analysis in this repository. They are located in
