@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/jlauinger/go-study/scripts/data-acquisition-tool/projects"
+	"github.com/stg-tud/unsafe_go_study_results/scripts/data-acquisition-tool/projects"
 )
 
 var projectsCheckModuleCmd = &cobra.Command{

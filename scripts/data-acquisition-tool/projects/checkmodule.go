@@ -3,7 +3,7 @@ package projects
 import (
 	"fmt"
 	"github.com/gocarina/gocsv"
-	"github.com/jlauinger/go-study/scripts/data-acquisition-tool/base"
+	"github.com/stg-tud/unsafe_go_study_results/scripts/data-acquisition-tool/base"
 	"os"
 	"os/exec"
 	"strconv"

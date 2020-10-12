@@ -11,7 +11,7 @@ mkdir -p /path/to/repositories
 Download repositories:
 
 ```shell script
-./acquisition projects --download --data-dir=/path/to/data --destination=/path/to/repositories
+./acquisition projects --size=500 --download --data-dir=/path/to/data --destination=/path/to/repositories
 ```
 
 Run analysis.

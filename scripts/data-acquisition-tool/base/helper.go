@@ -8,6 +8,9 @@ import (
 	"strings"
 )
 
+// magic number to indicate no particular length given by the user
+const NoLengthGiven = 99999
+
 func Max(x, y int) int {
 	if x < y {
 		return y

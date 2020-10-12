@@ -2,7 +2,7 @@ package geiger
 
 import (
 	"fmt"
-	"github.com/jlauinger/go-study/scripts/data-acquisition-tool/base"
+	"github.com/stg-tud/unsafe_go_study_results/scripts/data-acquisition-tool/base"
 )
 
 func analyzeHopCounts(packages []*base.PackageData) []*base.PackageData {

@@ -6,7 +6,7 @@ import (
 	"github.com/go-git/go-git/v5"
 	"github.com/gocarina/gocsv"
 	"github.com/google/go-github/github"
-	"github.com/jlauinger/go-study/scripts/data-acquisition-tool/base"
+	"github.com/stg-tud/unsafe_go_study_results/scripts/data-acquisition-tool/base"
 	"golang.org/x/oauth2"
 	"os"
 	"os/exec"
@@ -14,7 +14,7 @@ import (
 	"strings"
 )
 
-func GetProjects(dataDir, downloadDir string, download, createForks bool, accessToken string) {
+func GetProjects(datasetSize int, dataDir, downloadDir string, download, createForks bool, accessToken string) {
 	projectsFilename := fmt.Sprintf("%s/projects.csv", dataDir)
 
 	fmt.Printf("Saving project data to %s\n", projectsFilename)
@@ -35,10 +35,19 @@ func GetProjects(dataDir, downloadDir string, download, createForks bool, access
 	tc := oauth2.NewClient(context.Background(), ts)
 	client := github.NewClient(tc)
 
-	for page := 1; page <= 5; page++ {
+	// split up the projects into pages of 100 each because Github's rate limiting does not allow more
+	pages := datasetSize / 100
+	for page := 1; page <= pages + 1; page++ {
+		// calculate the size of this page, if needed at all
+		pageSize := base.Min(datasetSize - ((page-1)*100), 100)
+		if pageSize <= 0 {
+			continue
+    }
+
+		// search for repositories with language Go on Github. They are ordered by stars automatically
 		repos, _, err := client.Search.Repositories(context.Background(), "language:Go", &github.SearchOptions{
 			ListOptions: github.ListOptions{
-				PerPage: 100,
+				PerPage: pageSize,
 				Page: page,
 			},
 		})

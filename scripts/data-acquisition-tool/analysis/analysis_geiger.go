@@ -2,8 +2,8 @@ package analysis
 
 import (
 	"fmt"
-	"github.com/jlauinger/go-study/scripts/data-acquisition-tool/base"
-	"github.com/jlauinger/go-study/scripts/data-acquisition-tool/geiger"
+	"github.com/stg-tud/unsafe_go_study_results/scripts/data-acquisition-tool/base"
+	"github.com/stg-tud/unsafe_go_study_results/scripts/data-acquisition-tool/geiger"
 )
 
 func RunAnalysisGeiger(dataDir string, offset, length int, skipProjects []string) {
@@ -33,6 +33,11 @@ func RunAnalysisGeiger(dataDir string, offset, length int, skipProjects []string
 	skipProjectMap := make(map[string]struct{}, len(skipProjects))
 	for _, skipProject := range skipProjects {
 		skipProjectMap[skipProject] = struct{}{}
+	}
+
+	// set the correct length if none is given
+	if length == base.NoLengthGiven {
+		length = len(projects)
 	}
 
 	for projectIdx, project := range projects[offset:offset+length] {
